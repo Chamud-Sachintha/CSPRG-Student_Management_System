@@ -1,0 +1,26 @@
+J:\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+J:\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+J:\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.CoursesManagement.resources
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LectureManagement.resources
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginForm.resources
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.MainSystemVeiw.resources
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.student_management.resources
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.Cache
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+J:\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe.config
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.exe
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.pdb
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csprojResolveAssemblyReference.cache
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.CoursesManagement.resources
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LectureManagement.resources
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.LoginForm.resources
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.MainSystemVeiw.resources
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.Properties.Resources.resources
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.student_management.resources
+J:\MyProjects\C # Systems\StudentManagementSystem\StudentManagementSystem\obj\Debug\StudentManagementSystem.csproj.GenerateResource.Cache

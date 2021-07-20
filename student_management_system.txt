@@ -1,0 +1,21 @@
+students
+	1.add student
+	2.search student
+	3.update student
+	4.delete student
+	5.get student list
+
+teachers
+	1.add techer
+	2.search teacher
+	3.update teacher
+	4.delete teacher
+	5.get teachers list
+
+courses
+	1.add course
+	2.seach course
+	3.update course
+	4.delete course
+	5.get course list
+
